@@ -1,4 +1,6 @@
 # Campus-Connect
+Campus Connect is my first ever ui/ux project made by me and my team members. Its a prototype of a website build using figma. 
+<b> About the project: <b>
 To address the challenges of campus communication, we have come up with Campus Connect.
 A centralized platform designed to streamline information across and enhance engagement.
 By consolidating announcements, personalized notifications, and resources into one user-friendly interface, our platform aims to enhance communication and connection among students and faculty.
