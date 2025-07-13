@@ -16,3 +16,11 @@ Additionally, the platform’s unique features, like detailed attendance trackin
 <br>
 <br>
 <b> Link to presentation: </b> https://1drv.ms/p/c/0a1c4a2a9c33a6b0/EX_Opu5GsjpMkZDg2ayfa3QBl8wD-gUzO1KhnRaNOwWiSQ?e=1JGbo9&nav=eyJzSWQiOjI1Nn0
+
+<img width="297" height="205" alt="{374933D0-84FF-4183-B8F8-F75F5F26F267}" src="https://github.com/user-attachments/assets/45c77a1f-66b2-4296-bbee-6df42341035e" />
+<img width="267" height="194" alt="{765CE30B-EFF1-4262-B403-1D0639481B59}" src="https://github.com/user-attachments/assets/dbf92ec4-a478-4405-9d2d-2bbca6470a90" />
+<img width="300" height="210" alt="{7315DB17-EA7F-48F2-A94B-ABBCF38F9563}" src="https://github.com/user-attachments/assets/47604d3c-6835-4ff7-9c0a-62120eba0ffd" />
+<img width="283" height="204" alt="{41232EB2-EBAC-42AC-B07D-552FCB8529CE}" src="https://github.com/user-attachments/assets/3308427f-f6ff-476d-8359-995cbb762f89" />
+<img width="274" height="195" alt="{3A95D086-5310-442E-BAB9-1A6B5D8755B0}" src="https://github.com/user-attachments/assets/cbe62efa-f983-4a70-8555-ecaa6ec3b6a3" />
+
+
