@@ -23,4 +23,5 @@ Additionally, the platform’s unique features, like detailed attendance trackin
 <img width="283" height="204" alt="{41232EB2-EBAC-42AC-B07D-552FCB8529CE}" src="https://github.com/user-attachments/assets/3308427f-f6ff-476d-8359-995cbb762f89" />
 <img width="274" height="195" alt="{3A95D086-5310-442E-BAB9-1A6B5D8755B0}" src="https://github.com/user-attachments/assets/cbe62efa-f983-4a70-8555-ecaa6ec3b6a3" />
 
+<img width="277" height="196" alt="{5EE04673-FFB5-462D-812E-2825E31F7BE9}" src="https://github.com/user-attachments/assets/f435a01f-302f-4975-ae95-8dd6b95d8c62" />
 
